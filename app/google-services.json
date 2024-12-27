@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375313192248",
+    "project_id": "colorapp-30d4b",
+    "storage_bucket": "colorapp-30d4b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375313192248:android:43d7e7c26568e441e95dcd",
+        "android_client_info": {
+          "package_name": "com.example.colorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCmf3HbrbXsHSSsqeQ2ZuPVhU1ExuMHl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
